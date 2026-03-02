@@ -1,6 +1,6 @@
-public class taskThree {
+public class taskFour {
     public static void main(String[] args) {
-        for (int i = 0; i <= 18; i += 3) {
+        for (int i = 10; i >= 0; i -= 2) {
             System.out.print(i + " ");
         }
     }
